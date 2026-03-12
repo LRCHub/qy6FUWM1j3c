@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Count To Love",
+  "base_artist": "BOYNEXTDOOR",
+  "createdAt": "2026-03-12T08:00:55.996175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Count To Love",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/01_Count_To_Love_BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Count To Love",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_Count_To_Love_BOYNEXTDOOR.txt"
+    }
+  ]
+}
